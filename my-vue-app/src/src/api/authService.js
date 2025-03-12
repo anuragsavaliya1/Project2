@@ -14,3 +14,7 @@ export const loginOrSignUp = async (email, fcmToken, identity) => {
     throw error;
   }
 };
+
+//slice
+//reducer
+//thunk
